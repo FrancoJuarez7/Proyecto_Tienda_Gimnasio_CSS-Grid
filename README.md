@@ -38,14 +38,10 @@ Este proyecto está desplegado y disponible para acceder en GitHub Pages.
 - Se incluyen reglas CSS para el encabezado, contenido, barra lateral y pie de página.
 - Se utiliza media queries para garantizar que el diseño sea responsivo en diferentes tamaños de pantalla.
 
-## Contribuciones
-
-Si deseas contribuir al desarrollo de ArgenPhoto, ¡te damos la bienvenida! Siéntete libre de enviar propuestas de mejora, reportar problemas o enviar solicitudes de extracción para colaborar en el desarrollo continuo de este proyecto.
-
 ## Contacto
 
 Si tienes alguna pregunta, sugerencia o simplemente quieres comunicarte conmigo, no dudes en contactarme:
 
-- Correo electrónico: [fdjuarez33@gmail.com]
+- Correo electrónico: fdjuarez33@gmail.com
 
 ¡Gracias por visitar mi proyecto!
