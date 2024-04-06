@@ -38,5 +38,8 @@ Este proyecto está desplegado y disponible para acceder en GitHub Pages.
 - Se incluyen reglas CSS para el encabezado, contenido, barra lateral y pie de página.
 - Se utiliza media queries para garantizar que el diseño sea responsivo en diferentes tamaños de pantalla.
 
- ## Contribuciones
+## Contribuciones
+
 ¡Las contribuciones son bienvenidas! Si deseas sugerir mejoras en el diseño, la funcionalidad o cualquier otro aspecto del blog, no dudes en abrir un issue o enviar una solicitud de extracción con tus cambios propuestos.
+
+¡Gracias por tu interés!
