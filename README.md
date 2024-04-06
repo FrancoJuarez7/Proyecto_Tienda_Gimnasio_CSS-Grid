@@ -1,6 +1,6 @@
 # Tienda de Productos de Gimnasio - New Training
 
-Este repositorio contiene el código fuente para el sitio web de una tienda de productos de gimnasio llamada New Training. El sitio web está desarrollado utilizando HTML y CSS, con un diseño responsivo para adaptarse a diferentes dispositivos.
+Este repositorio contiene el código fuente para el sitio web de una tienda de productos de gimnasio llamada New Training. El sitio web está desarrollado utilizando HTML y CSS, incluyendo CSS Grid Layout con un diseño responsivo para adaptarse a diferentes dispositivos.
 
 ## Estructura del Proyecto
 
@@ -34,8 +34,10 @@ Este proyecto está desplegado y disponible para acceder en GitHub Pages.
 - Proporciona un enlace de contacto para los usuarios que deseen obtener más información.
 
 ## Estilos CSS
-
 - Se utilizan estilos CSS para definir el diseño y la apariencia de los elementos HTML.
 - Se incluyen reglas CSS para el encabezado, contenido, barra lateral y pie de página.
 - Se utiliza media queries para garantizar que el diseño sea responsivo en diferentes tamaños de pantalla.
 
+  ## Contribuciones
+  
+¡Las contribuciones son bienvenidas! Si deseas sugerir mejoras en el diseño, la funcionalidad o cualquier otro aspecto del blog, no dudes en abrir un issue o enviar una solicitud de extracción con tus cambios propuestos.
