@@ -39,4 +39,3 @@ Este proyecto está desplegado y disponible para acceder en GitHub Pages.
 - Se incluyen reglas CSS para el encabezado, contenido, barra lateral y pie de página.
 - Se utiliza media queries para garantizar que el diseño sea responsivo en diferentes tamaños de pantalla.
 
-Este es un resumen de la estructura y el diseño del proyecto para la tienda de productos de gimnasio. Si deseas más detalles sobre el código o tienes alguna pregunta específica, no dudes en consultar los archivos HTML y CSS proporcionados.
